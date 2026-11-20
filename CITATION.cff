@@ -1,0 +1,54 @@
+{
+  "cff-version": "1.2.0",
+  "message": "If you use this transcription dataset, cite this version and source copy.",
+  "type": "dataset",
+  "title": "信約錄（1894，DRS 428481349） / Xin yue lu: Transcription Dataset",
+  "version": "0.2.0",
+  "date-released": "2026-11-20",
+  "authors": [
+    {
+      "family-names": "Chu",
+      "given-names": "Chen-Yu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "url": "https://github.com/poplolioi11/xin-yue-lu-1894-drs-428481349/releases/tag/v0.2.0",
+  "repository-code": "https://github.com/poplolioi11/xin-yue-lu-1894-drs-428481349",
+  "abstract": "Xin yue lu (信約錄) is a three-bifolium tract compiled by Chauncey Goodrich (富善, 1836–1925) and printed by the Jingdu Meihua Shuju (京都美華書局) in 1894 (Guangxu 20). It sets out six articles of faith (liuxin) and three covenant vows (sanyue), and it retains the pastor–congregation dialogue and ritual directions, which makes it a source for the study of nineteenth-century Chinese Protestant creeds, membership covenants, and terminology. This dataset transcribes fourteen images from Harvard-Yenching Library DRS 428481349, including six text-bearing faces. The AI-reviewed transcription in JSON, TXT, and TEI retains 8 unresolved comparison items and one separately flagged imprint character. Full human collation is outstanding.",
+  "keywords": [
+    "信約錄 / Xin yue lu",
+    "富善 / Chauncey Goodrich",
+    "京都美華書局 / Jingdu Meihua Shuju",
+    "光緒二十年 / 1894 (Guangxu 20)",
+    "六信 / six articles of faith",
+    "三約 / three covenant vows",
+    "漢語新教信條 / Chinese Protestant creeds",
+    "入會盟約 / church membership covenant",
+    "牧師會眾問答 / pastor–congregation responsory",
+    "教會儀式說明 / liturgical rubrics",
+    "漢語基督教術語 / Chinese Christian terminology",
+    "晚清基督新教 / late Qing Protestantism",
+    "原句讀 / original punctuation",
+    "古籍轉錄 / historical text transcription",
+    "TEI XML / TEI XML",
+    "AI 校讀稿 / AI-proofread draft"
+  ],
+  "references": [
+    {
+      "type": "book",
+      "title": "信約錄",
+      "authors": [
+        {
+          "family-names": "Goodrich",
+          "given-names": "Chauncey"
+        }
+      ],
+      "publisher": {
+        "name": "美華書局"
+      },
+      "year": 1894,
+      "url": "https://id.lib.harvard.edu/alma/990081336090203941/catalog",
+      "notes": "Harvard-Yenching Library DRS 428481349, RAREB TA 1978 8 34."
+    }
+  ]
+}
