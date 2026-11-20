@@ -27,4 +27,6 @@ p010 的陰文「三」位於右起第三欄上方。兩份讀稿均列於頁首
 
 歷史原文及忠實轉錄按公有領域狀態提供。新增說明與可受著作權保護的編排採 CC BY 4.0。 [權利說明](LICENSE.md)
 
-曲宸宇（Chu, Chen-Yu）。2026。信約錄（1894，DRS 428481349） / Xin yue lu: Transcription Dataset。v0.2.0。資料集。首次公開日 2026-11-20。 [固定發行](https://github.com/poplolioi11/xin-yue-lu-1894-drs-428481349/releases/tag/v0.2.0) · [ORCID](https://orcid.org/0009-0003-9738-6914)
+曲宸宇（Chu, Chen-Yu）。2026。信約錄（1894，DRS 428481349） / Xin yue lu: Transcription Dataset。v0.2.0。資料集。首次公開日 2026-11-20。 [固定發行](https://github.com/poplolioi11/xin-yue-lu-1894-drs-428481349/releases/tag/v0.2.0) · [ORCID](https://orcid.org/0009-0003-9738-6914) · [版本 DOI](https://doi.org/10.5281/zenodo.24393188) · [系列 DOI](https://doi.org/10.5281/zenodo.24393187)
+
+`PACKAGE-SHA256SUMS.txt` 對應固定 v0.2.0 發行包。GitHub `main` 的引用檔與本頁另列已核的 Zenodo DOI。
